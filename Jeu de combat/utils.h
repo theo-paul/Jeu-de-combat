@@ -31,6 +31,7 @@
 #include "CDagger.h"
 #include "CBow.h"
 #include "CSword.h"
+#include "CStaff.h"
 
 // Include pour les personnages
 #include "Archer.h"
@@ -38,5 +39,4 @@
 #include "Rogue.h"
 #include "Warrior.h"
 
-// Include pour la methode soins
-#include "CStaff.h"
+

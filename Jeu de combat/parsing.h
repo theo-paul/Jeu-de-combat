@@ -1,7 +1,7 @@
 #pragma once
 #include "utils.h"
 
-/*
+
 enum class type_Character
 {
     ARCHER,
@@ -18,7 +18,7 @@ enum class type_Weapon
     SWORD,
     WAND,
     NB_TYPE
-};*/
+};
 
 typedef struct created_Weapon
 {
@@ -40,7 +40,7 @@ typedef struct created_Weapon
 typedef struct created_Character
 {
     std::string     m_nom_Character;
-    std::string     m_classe_Character;
+    type_Character  m_classe_Character;
     int             m_val_vie_Character;
     int             m_vitesse_Character;
     int             m_val_attaque_Character;
@@ -48,7 +48,7 @@ typedef struct created_Character
     int             m_defense_Character;
     float           m_val_esquive_Character;
     int             m_agilite_Character;
-    float           m_priorite_Character;
+    int             m_priorite_Character;
 }created_Character;
 
 class parsing

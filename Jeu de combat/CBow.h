@@ -1,14 +1,14 @@
 #pragma once
 #include "utils.h"
 
-class CBow : public CRanged
+class CBow : protected CRanged
 {
 protected:
 	int m_fleche;
 
 	CBow();
-
-public:
 	CBow(int fleche);
 	virtual ~CBow();
+public:
+	
 };

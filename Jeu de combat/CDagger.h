@@ -7,8 +7,9 @@ protected:
 	int m_utilisation;
 
 	CDagger();
-
-public:
 	CDagger(int utilisation);
 	virtual ~CDagger();
+
+public:
+	
 };

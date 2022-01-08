@@ -7,8 +7,8 @@ protected:
 	int m_soin;
 
 	CStaff();
-
-public:
 	CStaff(int soin);
 	virtual ~CStaff();
+public:
+	
 };

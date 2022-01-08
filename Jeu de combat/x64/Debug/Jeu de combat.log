@@ -1,19 +1,11 @@
-﻿  Archer.cpp
-  CBow.cpp
-  CDagger.cpp
-  CMelee.cpp
-  CRanged.cpp
-  CStaff.cpp
-  CSword.cpp
-  CWeapons.cpp
-  parsing.cpp
-  Warrior.cpp
+﻿  Warrior.cpp
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(8,21): warning C4101: 'Weapon' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(25,21): warning C4101: 'Weapon' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(46,14): error C2059: erreur de syntaxe : ';'
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(47,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(59,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
   Mage.cpp
-  main.cpp
-  Character.cpp
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Character.cpp(47,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Character.cpp(68,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Character.cpp(98,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
   Rogue.cpp
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(38,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(59,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
   Génération de code en cours...
-  Jeu de combat.vcxproj -> C:\Users\tdelp\source\repos\Jeu-de-combat\x64\Debug\Jeu de combat.exe

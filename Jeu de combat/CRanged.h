@@ -7,8 +7,8 @@ protected:
 	int m_consommable;
 
 	CRanged();
-
-public:
 	CRanged(int consommable);
 	virtual ~CRanged();
+public:
+	
 };

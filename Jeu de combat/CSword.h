@@ -7,8 +7,8 @@ protected:
 	int m_utilisation;
 
 	CSword();
-
-public:
 	CSword(int utilisation);
 	virtual ~CSword();
+public:
+	
 };
