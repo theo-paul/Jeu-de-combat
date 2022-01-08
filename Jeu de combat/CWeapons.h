@@ -21,6 +21,7 @@ protected:
 
     CWeapons(std::string nom_Weapon, std::string classe_Weapon, float degat_Weapon, float critique_Weapon, int bonus_Weapon, int hp_Weapon, int cost_Weapon, int intelligence_Weapon, int attaque_Weapon, int durabilite_Weapon, int arrow_Weapon, int agilite_Weapon, int defense_Weapon);
     CWeapons();
+
     //CWeapons(std::string nom, float degat, float crit, int bonus);
     virtual ~CWeapons();
 public:

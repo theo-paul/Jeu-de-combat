@@ -104,7 +104,7 @@ float CCharacter::atqmain(CCharacter *m_defense)
 void choix_Character()
 {
 
-    std::cout << "Choisir le nom de votre hero hero : "<<std::endl;
+    std::cout << "Choisir le nom de votre hero : "<<std::endl;
 
 
 }

@@ -2,10 +2,9 @@
 
 int main(int argc, char** argv)
 {
-	void print_parsed();
-
-
 	void choix_Character();
+
+
 	/*
 	switch (m_classe_Weapon)
 	{

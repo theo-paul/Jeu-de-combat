@@ -1,11 +1,21 @@
 ﻿  Warrior.cpp
 C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(8,21): warning C4101: 'Weapon' : variable locale non référencée
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(25,21): warning C4101: 'Weapon' : variable locale non référencée
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(46,14): error C2059: erreur de syntaxe : ';'
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(47,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(59,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Warrior.cpp(26,21): warning C4101: 'Weapon' : variable locale non référencée
   Mage.cpp
   Rogue.cpp
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(38,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
-C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(59,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(18,6): warning C4101: 'm_priorite_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(13,6): warning C4101: 'm_vitesse_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(11,6): warning C4101: 'm_val_vie_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(12,6): warning C4101: 'm_val_esquive_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(7,6): warning C4101: 'm_degatdelarme' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(6,9): warning C4101: 'm_empoisonnement' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(14,6): warning C4101: 'm_val_attaque_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(19,8): warning C4101: 'm_viemax_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(17,6): warning C4101: 'm_intelligence_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(15,6): warning C4101: 'm_defense_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(9,18): warning C4101: 'Weapon_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(16,6): warning C4101: 'm_agilite_Character' : variable locale non référencée
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(53,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+C:\Users\tdelp\source\repos\Jeu-de-combat\Jeu de combat\Rogue.cpp(74,12): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
   Génération de code en cours...
+  Jeu de combat.vcxproj -> C:\Users\tdelp\source\repos\Jeu-de-combat\x64\Debug\Jeu de combat.exe

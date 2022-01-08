@@ -41,7 +41,12 @@ CWarrior::~CWarrior()
 
 }
 
-float CWarrior::getReparer()
+std::string CWarrior::getNom()
+{
+    return m_nom_Character;
+}
+
+int CWarrior::getReparer()
 {
     if (m_durabilite_Weapon == 0)
     {
@@ -49,12 +54,12 @@ float CWarrior::getReparer()
     }
     else
     {
-        m_durabilite_Weapon = m_durabilite_Weapon + ;
+        m_durabilite_Weapon = m_durabilite_Weapon + m_durabilite_Weapon;
     }
     return m_durabilite_Weapon;
 }
 
-float CWarrior::getHurler()
+int CWarrior::getHurler()
 {
     int hurler = 0;
 
